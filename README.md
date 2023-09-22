@@ -4,5 +4,5 @@ Luis Gregorio Rondon edad 33 años Capital Federal
 Kevin Espinola
 Martin Romero
 Eric Martinez
-Yamel Narducci
+Yamel Narducci 38 Lomas de Zamora 
 
